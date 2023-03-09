@@ -67,6 +67,11 @@
   color: #853828;
 }
 
+.empresa-texto a {
+  color: #853828;
+  text-decoration: underline;
+}
+
 .empresa-habilidades {
   display: flex;
   flex-wrap: wrap;
